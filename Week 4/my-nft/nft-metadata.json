@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Maltipoo"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most adorable and sensitive pup.",
+    "image" : "https://gateway.pinata.cloud/ipfs/Qmf1TZRCCEPN5B648Ppv9eogbsRfH4AgkZ4ukMwGjN3dbX",
+    "name" : "Ramses"
+}
